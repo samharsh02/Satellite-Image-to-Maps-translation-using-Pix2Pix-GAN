@@ -1,3 +1,6 @@
+# Note: 
+If the codeblock does not render on college internet for some reason, try using data, it will open - happened with me a few times.
+
 # Satellite-Image-to-Maps-translation-using-Pix2Pix-GAN
 
 # Introduction:
